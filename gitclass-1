@@ -5,5 +5,10 @@ Adding Second Line from  git bash
 Adding  one more line from vs code
 
 
+<<<<<<< HEAD
 adding for fetch from vsI am adding this lines from Fe/devloper branch
 Adding  from FE BRANCH
+=======
+adding for fetch from vsi am adding developement branch[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C the line from developement branch
+adding new line from DEV
+>>>>>>> Dev/devploement
